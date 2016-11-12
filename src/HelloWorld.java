@@ -4,5 +4,7 @@ public class HelloWorld {
         for(int i=0;i<3;i++)
             i++;
         int x=0;
+        x++;
+        System.out.println(x);
     }
 }
