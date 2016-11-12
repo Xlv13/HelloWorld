@@ -5,6 +5,5 @@ public class HelloWorld {
             i++;
         int x=0;
         x++;
-        System.out.println(x);
     }
 }
