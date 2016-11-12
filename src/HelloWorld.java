@@ -6,5 +6,6 @@ public class HelloWorld {
         int x=0;
         x++;
         System.out.println(x);
+        x--;
     }
 }
